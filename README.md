@@ -52,7 +52,7 @@ while True:
 ```
 ## OUTPUT
 1. Client
-<img width="1097" height="337" alt="image" src="https://github.com/user-attachments/assets/8e488c31-ef94-4def-bffa-bd1057d34433" />
+<img width="1102" height="332" alt="image" src="https://github.com/user-attachments/assets/6e23dce9-7f83-447c-9461-85993721bda0" />
 
 2. Server
 <img width="1106" height="365" alt="image" src="https://github.com/user-attachments/assets/0b5c7f5a-04a9-496d-aef5-5b58c978d5c8" />
